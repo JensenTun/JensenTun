@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Tun Kyaw Soe
+# 👋 Hi, I'm JensenTun
+
+![Typing](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Flutter+Developer;Full-stack+Engineer)
 
 💻 **Flutter Developer | Full-stack Mobile Developer**
 
