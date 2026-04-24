@@ -45,9 +45,12 @@ Skilled in full-stack mobile development (**Flutter + Node.js**) with clean arch
 ### 💡 Programming Languages
 - Java  
 - JavaScript  
-- Python  
-- React.js (basic)  
-- Angular (basic)  
+- Python
+
+### 💡 Familiar Frameworks
+- React.js  
+- Angular
+- Typescript  
 
 ---
 
