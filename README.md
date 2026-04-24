@@ -63,8 +63,10 @@ A full-stack mobile application built with scalable architecture.
 - Node.js + Express backend API  
 - Product CRUD system  
 - JWT authentication  
-- Clean API integration & error handling  
-- Designed for scalability and maintainability  
+- 🧾 Order system with address input  
+- 💳 PayPal payment integration  
+- ✅ Order created only after successful payment  
+- Clean Architecture & scalable design  
 
 ---
 
