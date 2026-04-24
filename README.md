@@ -10,55 +10,68 @@ I'm a passionate Flutter developer from Myanmar 🇲🇲, focused on building re
 
 ## 🚀 Professional Summary
 
-Flutter Developer with experience building real-world, user-tested mobile apps using **Flutter** and **flutter_bloc**.  
-Skilled in full-stack mobile development (**Flutter + Node.js**) with clean architecture.  
+Flutter Developer with hands-on experience building real-world, production-ready mobile applications using **Flutter** and **flutter_bloc**.
 
-✔ Able to mentor developers  
-✔ Deliver production-ready features  
-✔ Currently expanding into backend & web  
+Skilled in full-stack mobile development (**Flutter + Node.js**) with clean architecture principles.
+
+✔ Mentored junior developers  
+✔ Delivered production-ready features  
+✔ Strong focus on scalable and maintainable systems  
+✔ Currently expanding into backend, web, and system design  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 📱 Mobile
+### 📱 Mobile Development
 - Flutter, Dart  
 
 ### ⚙️ State Management
 - flutter_bloc, Riverpod, Provider  
 
-### 🌐 Backend / API
+### 🌐 Backend / API Development
 - Node.js, Express.js  
 - REST API, JSON  
 
-### 🏗 Architecture
+### 🏗 Architecture & Design
 - Clean Architecture  
-- Feature-based structure  
+- Feature-based modular structure  
 
-### 🧰 Tools
-- Git, GitHub, Postman  
+### 🧰 Tools & Workflow
+- Git, GitHub  
+- Postman  
+- VS Code  
 
-### 💡 Other Knowledge
-- Java, JavaScript, Python  
-- React.js, Angular  
+### 💡 Programming Languages
+- Java  
+- JavaScript  
+- Python  
+- React.js (basic)  
+- Angular (basic)  
 
 ---
 
 ## 📱 Projects
 
 ### 🛒 E-commerce App (Flutter + Node.js)
-- Full-stack mobile application  
-- Built with flutter_bloc + custom REST API  
-- API design, error handling, frontend-backend integration  
-- Scalable and maintainable architecture  
+A full-stack mobile application built with scalable architecture.
+
+- Flutter frontend with flutter_bloc state management  
+- Node.js + Express backend API  
+- Product CRUD system  
+- JWT authentication  
+- Clean API integration & error handling  
+- Designed for scalability and maintainability  
 
 ---
 
 ### 🌐 JSVPN App (Flutter)
-- Production-ready VPN app used by real users  
-- Built using flutter_bloc  
-- Clean and maintainable architecture  
-- Demonstrates real deployment experience  
+A production-ready VPN application used by real users.
+
+- Built with Flutter + flutter_bloc  
+- Clean Architecture implementation  
+- Stable and maintainable codebase  
+- Demonstrates real-world deployment experience  
 
 ---
 
@@ -67,26 +80,29 @@ Skilled in full-stack mobile development (**Flutter + Node.js**) with clean arch
 ### 👨‍🏫 Flutter Developer & Trainer  
 **Developer Training Center** *(July 2024 – Present)*  
 
-- Taught Flutter, flutter_bloc, API integration  
-- Mentored students with real-world projects  
-- Provided strong programming foundation (Java)  
+- Taught Flutter, flutter_bloc, and API integration  
+- Guided students through real-world projects  
+- Built strong programming foundations (Java basics)  
+- Helped learners understand clean architecture practices  
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JensenTun&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JensenTun&show_icons=true&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JensenTun&layout=compact)
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 📧 Email: tunkyawsoeluci@gmail.com  
 📱 Phone: +95 9791791500  
 🔗 GitHub: https://github.com/JensenTun  
 
+💬 Feel free to reach out for collaboration or opportunities!
+
 ---
 
-⭐️ *"I build real apps, not just tutorials."*
+⭐️ *"I don’t just build apps — I build real-world solutions."*
