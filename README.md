@@ -103,7 +103,6 @@ A production-ready VPN application used by real users.
 ## 📫 Contact Me
 
 📧 Email: tunkyawsoeluci@gmail.com  
-📱 Phone: +95 9791791500  
 🔗 GitHub: https://github.com/JensenTun  
 
 💬 Feel free to reach out for collaboration or opportunities!
