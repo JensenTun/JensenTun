@@ -49,7 +49,6 @@ Skilled in full-stack mobile development (**Flutter + Node.js**) with clean arch
 
 ### 💡 Familiar Frameworks
 - React.js  
-- Angular
 - Typescript  
 
 ---
